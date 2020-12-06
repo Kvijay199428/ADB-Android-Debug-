@@ -1,6 +1,7 @@
 # ADB-Android-Debug-
 ADB (Android Debug)
 
+#usefull commands list to work over.
 
 #ADB all commands
 
